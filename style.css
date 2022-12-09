@@ -1,0 +1,13 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Kanit:ital@0;1&display=swap"); */
+h1 {
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  width: 50%;
+  background-color: rgba(237, 145, 25, 0.348);
+  color: darkblue;
+  text-shadow: 5px -5px 1px rgba(219, 71, 30, 0.985);
+  letter-spacing: 5px;
+  text-align: center;
+  border: 2px black solid;
+  font-family: "Kanit", serif;
+}
